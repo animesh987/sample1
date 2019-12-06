@@ -1,6 +1,4 @@
-void fill(int*,int);           
-void sumarr(const int*,int);    
-void display(const int*,int); 
+
 int i;
 int main() 
 {
